@@ -5,7 +5,7 @@
   Plugin URI: http://dianagarland.com/wp-show-star-sign-widget/
   Description: Sidebar widget which displays a star sign; yours, the visitor's, or the current one.
   Author: Duncan Marshall
-  Version: 1.0.0
+  Version: 1.0.1
   Author URI: http://duncanmarshall.net/
 
  * *************************************************************************

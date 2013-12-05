@@ -2,9 +2,9 @@
 Contributors: DuncanMarshall 
 Tags: star, sign, current, widget, daily, zodiac, signs, astrology, sidebar
 Requires at least: 3.0.1
-Tested up to: 3.5.1
+Tested up to: 3.7.1
 License: GPLv2 or later
-Stable tag: trunk
+Stable tag: 1.0.1
 
 A sidebar widget to display a star sign - yours, or the current sign.
 
