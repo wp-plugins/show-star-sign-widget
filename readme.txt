@@ -2,7 +2,7 @@
 Contributors: DuncanMarshall 
 Tags: star, sign, current, widget, daily, zodiac, signs, astrology, sidebar
 Requires at least: 3.0.1
-Tested up to: 3.7.1
+Tested up to: 3.8.0
 License: GPLv2 or later
 Stable tag: 1.0.1
 
